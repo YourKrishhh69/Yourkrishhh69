@@ -2,13 +2,14 @@
 
 ---
 
-### 🤯 About Me  
-- 🧑‍💻 Backend whisperer – I talk to servers more than humans  
-- ☕ Coffee-powered + terrible jokes = my debugging fuel  
-- 🕶️ Turning `console.log("Hello World")` into production-ready backends  
-- 🐍 Fluent in Python (real snakes? nah, I run)  
-- 🔥 Motto: Code → Debug → Cry → Fix → Commit → Repeat  
-- 🌍 Building stuff that scales faster than my caffeine tolerance  
+## 👨‍💻 About Me
+I’m a passionate **Backend Developer** and **DevOps enthusiast** with hands-on experience in **Node.js** and **TypeScript**.  
+I love building scalable APIs, automating workflows, and working with cloud-native tools to deliver reliable solutions.  
+
+💡 I believe in hard work, consistency, and continuous learning — the three things that keep me growing as a developer.  
+⚡ I know how to write clean, efficient, and production-ready code that solves real problems.  
+
+If you’re an HR or recruiter looking for someone who can **code, deploy, and scale**, I’m the person you should hire. 🚀  
 
 ---
 
