@@ -17,18 +17,12 @@ I love building scalable APIs, automating workflows, and working with cloud-nati
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YourKrishhh69&theme=radical&border_radius=10" alt="GitHub Streak" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=
-YourKrishhh69
-&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourKrishhh69&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" height="200"/>
 </p>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
-YourKrishhh69
-&layout=compact&theme=radical&border_radius=10)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourKrishhh69&layout=compact&theme=radical&border_radius=10)  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=
-YourKrishhh69
-&theme=radical)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourKrishhh69&theme=radical)  
 
 ---
 
@@ -39,14 +33,18 @@ YourKrishhh69
 
 ---
 
-## 🛠️ My Superpowers  
-- 🟨 **JavaScript** – 97% Googling, 3% coding  
-- 🔷 **TypeScript** – JavaScript but with an ego boost  
-- 🟢 **Node.js** – my digital comfort zone  
-- 🐍 **Python** – makes me feel like a data scientist on weekends  
-- 🛢️ **MongoDB** – where my data hibernates  
-- 🐳 **Docker** – “it works on my machine” → “it works everywhere”  
-- ☁️ **AWS** – a cloud full of bills and struggles  
+## 🛠️ My Skills
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+</p>
+
 
 ---
 
