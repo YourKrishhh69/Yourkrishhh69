@@ -57,21 +57,22 @@ I love building scalable APIs, automating workflows, and working with cloud-nati
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/krish-shah-b70b0537a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/Krishshah200622" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1DA1F2" alt="X"/>
   </a>
   <a href="https://github.com/Krishshah200622" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
   <a href="mailto:krishshah200622@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
   <a href="https://krishhh.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-F58025?style=for-the-badge&logo=firefox&logoColor=white&labelColor-F58025" alt="Portfolio"/>
   </a>
 </p>
