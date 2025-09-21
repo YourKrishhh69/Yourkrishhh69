@@ -16,13 +16,19 @@ I love building scalable APIs, automating workflows, and working with cloud-nati
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&border_radius=10" alt="GitHub Streak" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=YourKrishhh69&theme=radical&border_radius=10" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=
+YourKrishhh69
+&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" height="200"/>
 </p>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&border_radius=10)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
+YourKrishhh69
+&layout=compact&theme=radical&border_radius=10)  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=
+YourKrishhh69
+&theme=radical)  
 
 ---
 
