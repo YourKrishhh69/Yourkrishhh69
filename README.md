@@ -13,11 +13,15 @@ I love building scalable APIs, automating workflows, and working with cloud-nati
 
 ---
 
-### 📊 GitHub Metrics  
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YourKrishhh69&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://streak-stats.demolab.com?user=YourKrishhh69&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Stats & Contributions
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&border_radius=10)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&border_radius=10)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&border_radius=10)  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical)  
 
 ---
 
