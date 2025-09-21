@@ -15,9 +15,10 @@ I love building scalable APIs, automating workflows, and working with cloud-nati
 
 ## 📊 GitHub Stats & Contributions
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&border_radius=10)  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&border_radius=10)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&border_radius=10" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" height="200"/>
+</p>  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&border_radius=10)  
 
